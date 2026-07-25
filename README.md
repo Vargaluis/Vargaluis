@@ -79,10 +79,23 @@ ESTADO   : ONLINE ████████████ 100%
 
 ## 📊 `ANALYTICS_DASHBOARD :: GENERATING...`
 
-<!-- Estadísticas de lenguajes con paleta cyberpunk -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargaluis&layout=donut&langs_count=8&bg_color=000b1e&title_color=00F0FF&text_color=d7d7d5&border_color=00F0FF&hide_border=false&card_width=380" alt="Top Languages" />
+</div>
 
-&nbsp;&nbsp;
+```
+╔══════════════════════════════════════════════════════╗
+║         LANGUAGE_SCAN :: TOP LANGUAGES               ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  TypeScript  ████████████████████░░░░   65%  ⚡     ║
+║  HTML        ████████░░░░░░░░░░░░░░░░   15%  🌐     ║
+║  Java        █████░░░░░░░░░░░░░░░░░░░   10%  ☕     ║
+║  PHP         ████░░░░░░░░░░░░░░░░░░░░    8%  🐘     ║
+║  CSS         ██░░░░░░░░░░░░░░░░░░░░░░    2%  🎨     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
 
 <!-- Racha de contribuciones con paleta cyberpunk -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vargaluis&background=000b1e&stroke=00F0FF&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=d7d7d5&dates=888888&border=00F0FF" alt="GitHub Streak" />
@@ -93,7 +106,7 @@ ESTADO   : ONLINE ████████████ 100%
 
 <div align="center">
 
-<!-- Gráfica de actividad con tema synthwave -->
+<!-- Gráfica de actividad con tema cyberpunk -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vargaluis&bg_color=000b1e&color=00F0FF&line=FF2A6D&point=FCEE0A&area=true&area_color=00F0FF&title_color=00F0FF&border_color=00F0FF)](https://github.com/Vargaluis)
 
 </div>
@@ -172,8 +185,12 @@ ESTADO   : ONLINE ████████████ 100%
 $ ping vargaluis --protocol=social
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000b1e)](https://www.linkedin.com/in/usuario/)
-[![Email](https://img.shields.io/badge/Email-SEND_MSG-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000b1e)](mailto:Vargaluis4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000b1e)](https://www.linkedin.com/in/tu-usuario/)
+[![Email](https://img.shields.io/badge/Email-GMAIL-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000b1e)](mailto:tu.correo@email.com)
+
+```
+📧  tu.correo@email.com    ← (reemplaza con tu correo real)
+```
 
 <br/>
 
