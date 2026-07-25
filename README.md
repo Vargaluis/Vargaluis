@@ -186,10 +186,10 @@ $ ping vargaluis --protocol=social
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000b1e)](https://www.linkedin.com/in/tu-usuario/)
-[![Email](https://img.shields.io/badge/Email-GMAIL-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000b1e)](mailto:tu.correo@email.com)
+[![Email](https://img.shields.io/badge/Email-GMAIL-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000b1e)](mailto:vargaluis4@gmail.com)
 
 ```
-📧  tu.correo@email.com    ← (reemplaza con tu correo real)
+📧  vargaluis4@gmail.com    
 ```
 
 <br/>
