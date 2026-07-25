@@ -1,88 +1,188 @@
-# ⚡ SYSTEM INITIALIZED // LUIS VARGAS ⚡
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&background=1A1A2400&center=true&vCenter=true&width=600&lines=INGENIERO+EN+SISTEMAS;VENEZUELA_NODE_+58;REAL-TIME+ARCHITECT;DATABASE+DEVELOPER" alt="Typing SVG" />
-</p>
+<!-- ═══════════════════ ENCABEZADO ═══════════════════ -->
 
 ```
-[SYSTEM_OVERVIEW]
-> Nombre: Luis Vargas
-> Ubicación: Venezuela // Sector: San Vicente
-> Título: Ingeniero en Sistemas (UNEFA)
-> Estado: Activo 🟢
+╔═══════════════════════════════════════════════════════╗
+║        SYSTEM BOOT v2.0 // INITIALIZING...           ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
-Egresado de la **UNEFA**. Diseñador y desarrollador de sistemas eficientes, estructurados y optimizados para el procesamiento de datos en tiempo real. Apasionado por la integración de bases de datos seguras y el desarrollo frontend dinámico.
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&lines=%5BROOT%40VARGALUIS%5D+%24+whoami;LUIS+VARGAS+%2F%2F+INGENIERO+EN+SISTEMAS;VENEZUELA_NODE+%2B58+%3A%3A+ONLINE;DATABASE+ARCHITECT+%2F%2F+ACTIVE;REACT+%7C+TYPESCRIPT+%7C+SUPABASE" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vargaluis-00F0FF?style=flat-square&logo=github&logoColor=black&labelColor=0a0a1a)](https://github.com/Vargaluis)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0a0a1a)
+![Location](https://img.shields.io/badge/LOC-Venezuela_🇻🇪-FF2A6D?style=flat-square&labelColor=0a0a1a)
+![School](https://img.shields.io/badge/UNEFA-Engineering-FCEE0A?style=flat-square&labelColor=0a0a1a)
+
+</div>
 
 ---
 
-### 💻 [CORE_SKILLS_LOADED]
+<div align="center">
 
-#### 🌐 FRONTEND_MODULES
-![React](https://img.shields.io/badge/React-00F0FF?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          >> IDENTITY_SCAN :: RUNNING...        
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-#### 🗄️ DATABASE_&_BACKEND_PROTOCOLS
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+</div>
 
-#### 🛠️ SYSTEMS_&_TOOLS
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+```yaml
+# OPERATOR PROFILE
+NOMBRE   : "Luis Vargas"
+ROL      : "Ingeniero en Sistemas"
+ALMA_MATER: "UNEFA - Universidad Nacional Experimental
+              Politécnica de la Fuerza Armada"
+NACION   : "Venezuela"
+MISIÓN   : "Crear sistemas eficientes, seguros y en tiempo
+            real, integrando bases de datos robustas con
+            interfaces modernas."
+ESTADO   : ONLINE ████████████ 100%
+```
 
 ---
 
-### 📂 [PROJECT_LOGS]
+<div align="center">
 
-```
-[LOG_01]: restaurante_supabase_firebase // STATUS: ACTIVE
-```
-*   **Descripción:** Sistema completo de gestión para restaurantes.
-*   **Base:** Supabase (PostgreSQL, PL/pgSQL) con seguridad RLS granular y Firebase (Firestore, Auth, Hosting).
-*   **Características:** Sincronización en tiempo real de comandas/pedidos, control de acceso por roles y reportes automatizados en PDF (`jsPDF`).
-*   **Stack:** `React` + `TypeScript` + `TailwindCSS`
+## 💾 `SKILL_MATRIX :: LOADED`
 
-```
-[LOG_02]: consejo_comunal_san_vicente // STATUS: ONLINE
-```
-*   **Descripción:** Plataforma digital informativa para la comunidad de San Vicente.
-*   **Despliegue:** [consejo-comunal.vercel.app](https://consejo-comunal.vercel.app)
-*   **Stack:** `React` + `TypeScript` + `Vercel`
+### [ FRONTEND ]
+![React](https://img.shields.io/badge/React-000b1e?style=for-the-badge&logo=react&logoColor=00F0FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000b1e?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000b1e?style=for-the-badge&logo=javascript&logoColor=FCEE0A)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000b1e?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF)
+![HTML5](https://img.shields.io/badge/HTML5-000b1e?style=for-the-badge&logo=html5&logoColor=FF2A6D)
+![CSS3](https://img.shields.io/badge/CSS3-000b1e?style=for-the-badge&logo=css3&logoColor=00F0FF)
 
-```
-[LOG_03]: dolar_evo // STATUS: STABLE
-```
-*   **Descripción:** Monitor de tasa de cambio y divisas en tiempo real.
-*   **Stack:** `React` + `TypeScript`
+### [ DATABASE & CLOUD ]
+![Supabase](https://img.shields.io/badge/Supabase-000b1e?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-000b1e?style=for-the-badge&logo=firebase&logoColor=FCEE0A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000b1e?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/Java-000b1e?style=for-the-badge&logo=openjdk&logoColor=FF2A6D)
+![PHP](https://img.shields.io/badge/PHP-000b1e?style=for-the-badge&logo=php&logoColor=BD93F9)
 
-```
-[LOG_04]: inventario_&_actitud_fit // STATUS: COMPLETED
-```
-*   **Descripción:** Aplicaciones de control de stock físico y fitness.
-*   **Stack:** `Java` // `PHP`
+### [ TOOLS ]
+![Git](https://img.shields.io/badge/Git-000b1e?style=for-the-badge&logo=git&logoColor=FF2A6D)
+![GitHub](https://img.shields.io/badge/GitHub-000b1e?style=for-the-badge&logo=github&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-000b1e?style=for-the-badge&logo=vite&logoColor=BD93F9)
+![Vercel](https://img.shields.io/badge/Vercel-000b1e?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+</div>
 
 ---
 
-### 📡 [ESTABLISH_CONNECTION]
+<div align="center">
+
+## 📊 `ANALYTICS_DASHBOARD :: GENERATING...`
+
+<!-- Estadísticas de lenguajes con paleta cyberpunk -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargaluis&layout=donut&langs_count=8&bg_color=000b1e&title_color=00F0FF&text_color=d7d7d5&border_color=00F0FF&hide_border=false&card_width=380" alt="Top Languages" />
+
+&nbsp;&nbsp;
+
+<!-- Racha de contribuciones con paleta cyberpunk -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vargaluis&background=000b1e&stroke=00F0FF&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=d7d7d5&dates=888888&border=00F0FF" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Gráfica de actividad con tema synthwave -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vargaluis&bg_color=000b1e&color=00F0FF&line=FF2A6D&point=FCEE0A&area=true&area_color=00F0FF&title_color=00F0FF&border_color=00F0FF)](https://github.com/Vargaluis)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📂 `PROJECT_LOGS :: DECRYPTING...`
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════╗
+║  LOG_01 :: restaurante_management_system             ║
+║  TECH: React + TypeScript + Supabase + Firebase      ║
+║  STATUS: ██████████ ACTIVE                           ║
+╠══════════════════════════════════════════════════════╣
+║  > Base de datos PostgreSQL con PL/pgSQL             ║
+║  > Seguridad RLS (Row Level Security) granular       ║
+║  > Tiempo real: pedidos, mesas y cocina en vivo      ║
+║  > Sistema de roles: Admin / Gerente / Mesero        ║
+║  > Reportes PDF automáticos con jsPDF                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  LOG_02 :: consejo_comunal_san_vicente               ║
+║  TECH: React + TypeScript + Vercel                   ║
+║  STATUS: ██████████ ONLINE                           ║
+╠══════════════════════════════════════════════════════╣
+║  > Plataforma digital para gestión comunitaria       ║
+║  > Deploy: https://consejo-comunal.vercel.app        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  LOG_03 :: dolar_evo                                 ║
+║  TECH: React + TypeScript                            ║
+║  STATUS: ████████── STABLE                           ║
+╠══════════════════════════════════════════════════════╣
+║  > Monitor de tasas de cambio en tiempo real         ║
+║  > Conversión de divisas para contexto venezolano    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  LOG_04 :: inventario_proyecto                       ║
+║  TECH: Java                                          ║
+║  STATUS: ██████████ COMPLETED                        ║
+╠══════════════════════════════════════════════════════╣
+║  > Sistema de control y gestión de inventario        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  LOG_05 :: actitud_fit                               ║
+║  TECH: PHP                                           ║
+║  STATUS: ██████████ COMPLETED                        ║
+╠══════════════════════════════════════════════════════╣
+║  > Aplicación de seguimiento fitness                 ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 📡 `ESTABLISH_CONNECTION :: OPEN`
 
 ```bash
-$ ping -c 3 vargaluis.net
+$ ping vargaluis --protocol=social
 ```
 
-*   💼 **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/) *(Edita este enlace)*
-*   ✉️ **Email:** [tu.correo@email.com](mailto:tu.correo@email.com) *(Edita este enlace)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000b1e)](https://www.linkedin.com/in/usuario/)
+[![Email](https://img.shields.io/badge/Email-SEND_MSG-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000b1e)](mailto:Vargaluis4@gmail.com)
+
+<br/>
 
 ```
-[SYSTEMS SHUTDOWN // BYTES SENT: 2048]
+╔════════════════════════════════════════════╗
+║  [ SESSION CLOSED // GOODBYE, NETRUNNER ] ║
+╚════════════════════════════════════════════╝
 ```
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
